@@ -4,6 +4,8 @@ FAMFAMFAM flag set for use with Rails 3.1 and 3.2 asset pipeline.
 
 Flag icons from http://www.famfamfam.com
 
+![FAMFAMFAM flags](flags_preview_large.png)
+
 These icons are public domain, and as such are free for any use (attribution appreciated but not required).
 
 Note that these flags are named using the ISO3166-1 alpha-2 country codes where appropriate.
@@ -28,7 +30,7 @@ Or install it yourself as:
 
 ## Usage
 
-The icons are packages under the +famfamfam-flags+ directory.
+The icons are packages under the `famfamfam-flags` directory.
 So to use them in your view templates write the following:
 
     <%= image_tag 'famfamfam-flags/fr.png' %>
