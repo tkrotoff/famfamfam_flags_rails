@@ -4,7 +4,7 @@ FAMFAMFAM flag set for use with Rails 3.1 and 3.2 asset pipeline.
 
 Flag icons from http://www.famfamfam.com
 
-![FAMFAMFAM flags](flags_preview_large.png)
+![FAMFAMFAM flags](https://github.com/tkrotoff/famfamfam_flags_rails/raw/master/flags_preview_large.png)
 
 These icons are public domain, and as such are free for any use (attribution appreciated but not required).
 
