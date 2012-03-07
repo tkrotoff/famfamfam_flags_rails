@@ -30,7 +30,7 @@ Or install it yourself as:
 
 ## Usage
 
-The icons are packages under the `famfamfam-flags` directory.
+The icons are packaged under the `famfamfam-flags` directory.
 So to use them in your view templates write the following:
 
     <%= image_tag 'famfamfam-flags/fr.png' %>
