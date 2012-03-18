@@ -1,18 +1,8 @@
 # FAMFAMFAM flags for Rails 3.1
 
-FAMFAMFAM flag set for use with Rails 3.1 and 3.2 asset pipeline.
+[FAMFAMFAM flag icons](http://famfamfam.com/lab/icons/flags/) for use with Rails 3.1 and 3.2 asset pipeline.
 
-Flag icons from http://www.famfamfam.com
-
-![FAMFAMFAM flags](https://github.com/tkrotoff/famfamfam_flags_rails/raw/master/flags_preview_large.png)
-
-These icons are public domain, and as such are free for any use (attribution appreciated but not required).
-
-Note that these flags are named using the ISO3166-1 alpha-2 country codes where appropriate.
-A list of codes can be found at http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-
-If you find these icons useful, please donate via PayPal to mjames@gmail.com
-(or click the donate button available at http://www.famfamfam.com/lab/icons/silk)
+To get started, checkout http://tkrotoff.github.com/famfamfam_flags/
 
 ## Installation
 
@@ -30,17 +20,15 @@ Or install it yourself as:
 
 ## Usage
 
-The icons are packaged under the `famfamfam-flags` directory.
-So to use them in your view templates write the following:
+Add stylesheet file to app/assets/stylesheets/application.css:
 
-    <%= image_tag 'famfamfam-flags/fr.png' %>
+    *= require famfamfam-flags
 
-If you need to use them in your CSS then you should use an
-ERB interpreted CSS or SCSS template such as:
+Then write inside your view templates:
 
-    .famfamfam-flag-fr {
-        background-image: url(<%= asset_path 'famfamfam-flags/fr.png' %>);
-    }
+    <i class="famfamfam-flag-fr"> France</i>
+
+Checkout http://tkrotoff.github.com/famfamfam_flags/ for the list of all icons.
 
 ## Attribution
 
