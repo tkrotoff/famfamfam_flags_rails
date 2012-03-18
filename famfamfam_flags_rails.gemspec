@@ -4,9 +4,9 @@ require File.expand_path('../lib/famfamfam_flags_rails/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Tanguy Krotoff (Flags by Mark James)"]
   gem.email         = ["tkrotoff@gmail.com"]
-  gem.description   = %q{FAMFAMFAM flag set}
-  gem.summary       = %q{FAMFAMFAM flag set for use with Rails 3.1 and 3.2 assets}
-  gem.homepage      = "http://www.famfamfam.com/lab/icons/flags/"
+  gem.description   = %q{FAMFAMFAM flag icons}
+  gem.summary       = %q{FAMFAMFAM flag icons packaged for Rails asset pipeline}
+  gem.homepage      = "http://tkrotoff.github.com/famfamfam_flags/"
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   gem.files         = `git ls-files`.split("\n")
