@@ -2,7 +2,7 @@
 
 [FAMFAMFAM flag icons](http://famfamfam.com/lab/icons/flags/) for use with Rails 3.1 and 3.2 asset pipeline.
 
-To get started, checkout http://tkrotoff.github.com/famfamfam_flags/
+To get started, check http://tkrotoff.github.com/famfamfam_flags/
 
 ## Installation
 
@@ -28,7 +28,7 @@ Then write inside your view templates:
 
     <i class="famfamfam-flag-fr"> France</i>
 
-Checkout http://tkrotoff.github.com/famfamfam_flags/ for the list of all icons.
+Check http://tkrotoff.github.com/famfamfam_flags/ for the list of all icons.
 
 ## Attribution
 
