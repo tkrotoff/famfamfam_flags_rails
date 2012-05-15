@@ -1,6 +1,6 @@
-# FAMFAMFAM flags for Rails 3.1
+# FAMFAMFAM flags for Rails
 
-[FAMFAMFAM flag icons](http://famfamfam.com/lab/icons/flags/) for use with Rails 3.1 and 3.2 asset pipeline.
+[FAMFAMFAM flag icons](http://famfamfam.com/lab/icons/flags/) for use with Rails 3.1+ asset pipeline.
 
 To get started, check http://tkrotoff.github.com/famfamfam_flags/
 
