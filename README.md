@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Add stylesheet file to app/assets/stylesheets/application.css:
+Add stylesheet file to `app/assets/stylesheets/application.css`:
 
     *= require famfamfam-flags
 
