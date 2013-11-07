@@ -1,3 +1,5 @@
+**I will not continue to maintain this gem as I don't use Rails asset pipeline anymore, if you are interested, [contact me](mailto:tkrotoff@gmail.com).**
+
 # FAMFAMFAM flags for Rails
 
 [FAMFAMFAM flag icons](http://famfamfam.com/lab/icons/flags/) for use with Rails 3.1+ asset pipeline.
